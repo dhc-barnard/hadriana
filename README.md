@@ -1,3 +1,5 @@
+This site was created by Taylor Faires.
+
 Demo: [http://webjeda.com/bheema](http://webjeda.com/bheema)
 
 ## Installation
